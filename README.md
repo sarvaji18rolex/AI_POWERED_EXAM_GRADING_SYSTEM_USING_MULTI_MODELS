@@ -475,7 +475,7 @@ ai-powered-handwritten-exam-evaluation-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/karan-431/ai-powered-handwritten-exam-evaluation-system.git
+git clone https://github.com/sarvaji18rolex/AI-Powered Exam Grading System Using multi models.git
 ```
 
 ```bash
